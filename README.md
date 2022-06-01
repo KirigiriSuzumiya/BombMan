@@ -421,7 +421,7 @@ public class clientlink {
 
 gui界面展示：
 
-![image-20220601190739254](readme.assets/image-20220601190739254.png)
+![image-20220601190739254](README.assets/image-20220601190739254.png)
 
 
 
@@ -750,7 +750,7 @@ public class info_refresh implements Runnable{
 
 服务端没有gui界面，只有简单的交互日志可供查阅与排错。
 
-![image-20220601201013607](readme.assets/image-20220601201013607.png)
+![image-20220601201013607](README.assets/image-20220601201013607.png)
 
 ### 3.2 客户端运行测试
 
@@ -758,7 +758,7 @@ public class info_refresh implements Runnable{
 
 一个简单的信息采集窗口，主机地址默认填写我云服务器的地址，昵称与房间名可以自取。点击连接后会开始等待其他玩家进入房间。下方的控制台信息会实时更新与服务端的交互状态。
 
-![image-20220601201440748](readme.assets/image-20220601201440748.png)
+![image-20220601201440748](README.assets/image-20220601201440748.png)
 
 #### 3.2.2 实时对战界面
 
@@ -769,6 +769,6 @@ public class info_refresh implements Runnable{
 - 左下为控制台与提示区
 - 右下为部分按钮交互区
 
-![image-20220601202104342](readme.assets/image-20220601202104342.png)
+![image-20220601202104342](README.assets/image-20220601202104342.png)
 
 简单直观的界面展示测试。
